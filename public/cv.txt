@@ -1,0 +1,20 @@
+KAVIN DESHPANDE — CURRICULUM VITAE PLACEHOLDER
+
+Computer Engineering student · MMCOE, Pune · SPPU
+CGPA: 9.33/10 · Expected graduation: 2027
+
+INTERESTS
+Natural Language Processing, AI systems, intelligent data systems, computer vision, edge computing.
+
+EXPERIENCE
+URJA Japanese Consultancy Pvt. Ltd. — Team Lead / Frontend Developer (Jan–Jul 2026)
+ConvenioTech Software Systems — AI & Documentation internship (2026)
+
+SELECTED PROJECTS
+DGCA regulatory PDF comparison system; URJAConnect recruitment platform MVP; Katha-Speare AI storytelling chatbot; bilingual lead-generation assistant.
+
+SKILLS
+C++, Python, Java, TypeScript, JavaScript, React, Node.js, Django, PyTorch, SQL, Docker, Git/GitHub.
+
+CONTACT
+Replace this placeholder with your actual CV PDF and contact details before publishing.
